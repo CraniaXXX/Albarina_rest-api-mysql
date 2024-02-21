@@ -1,0 +1,16 @@
+{
+"49d62d0a-8235-4159-9ee8-1a9a91d2fea2":{
+"id":"49d62d0a-8235-4159-9ee8-1a9a91d2fea2",
+"name":"rolex","price":400,"quantity":40,
+"image":"new.png"},"06e98fff-050a-4c72-a540-363b1cf23249":
+
+{
+"id":"06e98fff-050a-4c72-a540-363b1cf23249",
+"name":"wrist watch","price":500,"quantity":50,
+"image":"cc.png"},"6fa613ad-4d27-4e62-b85b-a66845d825f2":
+{
+"id":"6fa613ad-4d27-4e62-b85b-a66845d825f2",
+"name":"computer",
+"price":5000,
+"quantity":100,
+"image":"pc.png"}}
