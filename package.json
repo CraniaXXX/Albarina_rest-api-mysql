@@ -1,5 +1,5 @@
 {
-  "name": "rest-api-act-1",
+  "name": "intprogrepo1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.4",
-    "express": "^4.18.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
     "helmet": "^7.1.0",
+    "http-status-code": "^2.1.0",
     "http-status-codes": "^2.3.0",
+    "msnodesqlv8": "^4.1.2",
+    "mysql": "^2.18.1",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
@@ -26,8 +28,13 @@
     "@types/express": "^4.17.21",
     "@types/helmet": "^4.0.0",
     "@types/http-status-codes": "^1.2.0",
+    "@types/mysql": "^2.15.25",
+    "@types/node": "^20.11.24",
     "@types/uuid": "^9.0.8",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.3.3"
-  }
+    "typescript": "^5.4.2"
+  },
+  "description": ""
 }
